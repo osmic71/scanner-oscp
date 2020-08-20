@@ -1,1 +1,1 @@
-# scanner-oscp
+# Escanner OSCP
