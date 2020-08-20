@@ -1,1 +1,1 @@
-# Escanner OSCP
+# Escanner OSCP/HTB
