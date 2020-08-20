@@ -6,3 +6,7 @@ Esta herramienta nos permitira realizar el scaneo y analisis de vulnerabilidades
 > chmod +x scanner-oscp-htb.sh 
 2. Copiamos la herramienta a nuestros directorio de ejecucion.
 > cp scanner-oscp-htb.sh  /usr/local/bin/scanner-oscp-htb.sh 
+
+## Ejecucion
+Para poder ejecutar la herramieta es necesatio que la VPN de HackTheBox/OffensiveSecurity se encuentren habilitadas.
+> scanner-oscp-htb 10.10.10.10
